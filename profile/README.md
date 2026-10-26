@@ -13,7 +13,11 @@ These are some of our current and past projects.
 - 3x3 Macro Pad: [3x3 Macro Pad Repository](https://github.com/Grilled-Cheese-Engineering/3x3MacroPadExtras)
 - Micro Keyer: [Micro Keyer Repository](https://github.com/Grilled-Cheese-Engineering/micro-keyer)
 
-We plan to start selling some of our projects fully built online at some point but we will always keep the files open source for those who want to do it themselves.
+# Website!
+
+We are putting together a website where we will be selling our designs! All of our designs will still be available FOSS on GitHub but selling our projects online will allow you to get your hands on our projects for less! Check it out with the link below.
+
+### [grilled-cheese-engineering.com](grilled-cheese-engineering.com)
 <!--
 
 **Here are some ideas to get you started:**
