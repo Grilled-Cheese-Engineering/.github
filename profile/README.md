@@ -17,7 +17,7 @@ These are some of our current and past projects.
 
 We are putting together a website where we will be selling our designs! All of our designs will still be available FOSS on GitHub but selling our projects online will allow you to get your hands on our projects for less! Check it out with the link below.
 
-### [grilled-cheese-engineering.com](grilled-cheese-engineering.com)
+### [grilled-cheese-engineering.com](https://grilled-cheese-engineering.com)
 <!--
 
 **Here are some ideas to get you started:**
